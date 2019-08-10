@@ -1,5 +1,11 @@
 Название списка=Описание списка, [gg] (gg)
 UC_0RanFIv2cUCGEpaSf83Ew=гнида
+UCanBtfA6oUmHkhyWACwRT6A=гнида
+UCN_jQ9Gc7WOjSUOcTXIG5KQ=гнида
+UCakvmoKMoutl4uQQjbz7goA=гнида
+UC03GkOUnR7kIvBPOGkYcotQ=путин
+UC81UITb_5N9niuP86dms0Sg=бот
+UCTZmI4QwI54aFWUHGVrdOmw=бот
 UCiUMtoL5ycHLI9tLJkW58gw=соболь
 UCyT41nJVYrfKwN8wHBN0y0Q=соболь
 UCsFdi87JwLdnhYDjtiw336w=не знаете
